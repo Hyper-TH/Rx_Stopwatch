@@ -14,6 +14,11 @@ body {
     font-size: 4em;
 }
 
+#timer {
+    margin: 5% auto;
+    font-size: 4em;
+}
+
 button {
     border-radius: 5px;
     background: #ffa600;
